@@ -1,4 +1,4 @@
 function twoSum() {
-  //console.log('two sum')
+  return 1 + 1;
 }
 module.exports = twoSum;
